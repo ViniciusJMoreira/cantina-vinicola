@@ -1,0 +1,93 @@
+1) HOME / AZIENDA (/)
+Obiettivo
+
+Presentare il brand, creare fiducia, portare allo shop o alla cantina.
+
+HEADER (sticky)
+
+Logo cantina
+
+Menu: Home | Cantina | Shop | Contatti | Account
+
+Icone: Preferiti | Carrello
+
+CTA secondaria (opzionale): “Prenota visita”
+
+HERO SECTION
+
+Immagine full-width (vigneti o cantina)
+
+Claim (H1)
+“Vini autentici che raccontano il nostro territorio”
+
+Sub-claim (H2)
+Tradizione, qualità e passione dal vigneto al calice.
+
+CTA primaria: Scopri i vini → /shop
+
+CTA secondaria: Visita la cantina → /cantina
+
+OFFERTE IN EVIDENZA
+
+Titolo: “In evidenza”
+
+Griglia 3–4 vini
+
+immagine, nome, prezzo
+
+badge promo / novità
+
+CTA: Aggiungi al carrello
+
+CTA di sezione: “Vai allo shop”
+
+NEWS / EVENTI
+
+Titolo: “Novità dalla cantina”
+
+Cards:
+
+Vendemmia
+
+Degustazioni
+
+Premi / fiere
+
+CTA: “Leggi tutte le news”
+
+RECENSIONI
+
+Titolo: “Cosa dicono di noi”
+
+Carousel recensioni (nome + rating + testo)
+
+CTA soft: “Scopri l’esperienza”
+
+SPONSOR / PARTNER
+
+Loghi partner (enoteche, guide, premi)
+
+CHI SIAMO (TEASER)
+
+Testo breve storytelling
+
+CTA: “La nostra storia” → /cantina
+
+FOOTER
+
+Contatti rapidi
+
+Link social
+
+Newsletter
+
+Copyright
+
+2) CANTINA / STORIA (/cantina)
+Obiettivo
+
+Storytelling, autenticità, legame umano.
+
+HERO
+
+Immagine cantina / vigneti
