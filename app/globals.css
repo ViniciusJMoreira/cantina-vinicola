@@ -8,13 +8,14 @@
 
 @theme inline {
   --color-primary: #041f1e;
-  --text-secondary: #cd8b53;
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-secondary: #cd8b53;
+  --font-cinzel: var(--font-cinzel);
+  --font-cormorant: var(--font-cormorant);
+  --font-montserrat: var(--font-montserrat);
 }
 
 body {
   background: var(--primary-color);
   color: var(--text-color);
-  font-family: var(--font-mono), Helvetica, sans-serif;
+  font-family: var(--font-cormorant), Helvetica, sans-serif;
 }

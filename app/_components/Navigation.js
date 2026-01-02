@@ -16,6 +16,7 @@ const navigation = [
 // bg-teal-950
 function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  // bg-teal-950 ring-2 ring-teal-700/10
   return (
     <header className="absolute inset-x-0 top-0 z-50 bg-teal-950 ring-2 ring-teal-700/10">
       <nav
