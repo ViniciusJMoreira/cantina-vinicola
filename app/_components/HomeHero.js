@@ -30,7 +30,7 @@ export default function HomeHero() {
                 className="w-full border-t border-yellow-500"
               />
             </div>
-            <h1 className="font-cinzel tracking-wider font-bold uppercase mt-2 text-2xl text-balance sm:text-4xl xl:text-6xl text-gray-200">
+            <h1 className="font-cinzel tracking-wider font-bold uppercase mt-2 text-4xl text-balance sm:text-5xl xl:text-6xl text-gray-200">
               Dove la Tradizione
               <br />
               Incontra l&apos;Eccellenza
