@@ -35,15 +35,11 @@ export default function HomeHero() {
               <br />
               Incontra l&apos;Eccellenza
             </h1>
-            {/* <div
-              aria-hidden="true"
-              className="border-t border-gray-200 mx-auto w-sm mt-3"
-            /> */}
             <h2 className="font-cinzel font-normal mt-6 sm:mt-10 text-xl tracking-wide sm:tracking-wider text-white sm:text-3xl xl:text-4xl">
               Nel cuore della Toscana, la famiglia Lorem produce vini pregiati
               seguendo metodi tradizionali tramandati da quattro generazioni.
             </h2>
-            <div className="flex items-center justify-center gap-y-2 gap-x-6 mt-10">
+            <div className="flex flex-col-reverse items-center justify-center gap-y-2 gap-x-6 mt-10 2xs:flex-row">
               <Link
                 href="/products"
                 className="rounded-md bg-teal-950 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-teal-900 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal-800"

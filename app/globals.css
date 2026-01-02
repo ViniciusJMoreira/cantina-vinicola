@@ -12,6 +12,7 @@
   --font-cinzel: var(--font-cinzel);
   --font-cormorant: var(--font-cormorant);
   --font-montserrat: var(--font-montserrat);
+  --breakpoint-2xs: 360px;
 }
 
 body {
