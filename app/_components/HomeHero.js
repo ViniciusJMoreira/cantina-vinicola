@@ -13,7 +13,7 @@ export default function HomeHero() {
           className="object-cover obeject-top brightness-55 -z-10"
           placeholder="blur"
         />
-        <div className="mx-auto max-w-7xl py-24 px-6 lg:px-8">
+        <div className="mx-auto max-w-7xl py-34 px-6 lg:px-8">
           <div className="text-center">
             <div className="flex items-center w-60 sm:w-xs mx-auto">
               <div
